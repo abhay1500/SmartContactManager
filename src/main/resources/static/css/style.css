@@ -1,0 +1,24 @@
+body{
+    background: #C2DEDC !important;
+}
+.bg-primary{
+    background:#116A7B !important;
+}
+.bg-secondary{
+    background: #CDC2AE !important;
+}
+.bg-ter{
+    background: #ECE5C7 !important;
+}
+
+.banner{
+    width: 100%;
+    height: 93vh;
+    background:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../img/background.jpeg);
+    background-size: cover;
+    color:white;
+}
+.my-card{
+    padding: 20px;
+    background:#ECE5C7;
+}
